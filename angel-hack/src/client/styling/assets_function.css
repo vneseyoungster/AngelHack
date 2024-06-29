@@ -1,0 +1,38 @@
+
+.input-image-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .upload-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f3f4f6;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid #e5e7eb;
+  }
+  
+  .upload-button h3 {
+    color: black;
+  }
+  
+  .camera-image {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .assets-image-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .preview-image {
+    width: 300px;
+    height: auto;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+  }

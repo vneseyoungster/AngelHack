@@ -24,6 +24,7 @@ const Header = () => {
             <div className="information-details">
             <span>
               <p className="information-item" onClick={() => handleClick('Home')}>Home</p>
+              <p className="information-item" onClick={() => handleClick('Market Check')}>Market Price</p>
               <p className="information-item" onClick={() => handleClick('Assets')}>Assets</p>
               <p className="information-item" onClick={() => handleClick('Loan')}>Loan</p>
             </span>

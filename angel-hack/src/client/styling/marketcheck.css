@@ -1,0 +1,62 @@
+.market-price-container {
+    display: flexbox;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 400px;
+    margin-right: 600px;
+    
+  }
+.market-price-container span{
+    display: flex;
+    gap: 100px;
+}
+
+.left-side {
+    width: 300px;
+}
+
+.result-box {
+    margin-right: 0px;
+}
+
+.result-box h1 {
+    width: 600px;
+    height: 600px;
+    background-color: #FF6966;
+}
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .dropdown, .input-text {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .checkbox-group label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+
+.calculation-button button {
+    margin-right: 900px;
+    background-color: #FF6966;
+
+  }
+  

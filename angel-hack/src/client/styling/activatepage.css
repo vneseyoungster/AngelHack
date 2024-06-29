@@ -2,30 +2,87 @@
     margin-top: 37px;
     width: 1000px;
     height: 602px;
-    background-color: transparent;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
 }
 
-    .activate-box {
-        display: flex;
-        gap: 50px;
-        
-    }
+.activate-title {
+    padding-left: 100px;
+    font-size: 20px;
+    color: black;
+}
 
-        .progress-bar {
-            width: 450px;
-            height: 400px;
-            background-color: antiquewhite;
-            color: black;
-        }
-            .progress {
-                padding-left: 20px;
-            }
-            .progress h3 {
-                font-size: 20px;
-            }
-        .detail-input {
-            width: 900px;
-            height: 536px;
-            background-color: antiquewhite;
-            color: black;
-        }
+.activate-paragraph {
+    padding-left: 100px;
+    font-size: 15px;
+    color: black;
+}
+
+.activate-form {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #374151;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e5e7eb;
+    border-radius: 5px;
+    font-size: 14px;
+    color: black;
+    background-color: white;
+}
+
+.phone-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.phone-input {
+    display: flex;
+    align-items: center;
+}
+
+.phone-input .flag {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.phone-input .country-code {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #e5e7eb;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+    color: #374151;
+}
+
+.phone-input input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #e5e7eb;
+    border-radius: 0 5px 5px 0;
+    border-left: none;
+    font-size: 14px;
+    color: #374151;
+}
+
+.next-button button {
+    background-color: #FF6966;
+    display: block;
+    margin-left: 100px;    
+    width: 150px;
+    height: 80px;
+}
