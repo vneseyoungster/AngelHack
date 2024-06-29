@@ -33,71 +33,69 @@ const MarketCheck = () => {
     }, []);
   
     const handleCityChange = (event) => {
-        const selectedCityId = event.target.selectedOptions[0].getAttribute('data-id');
-        setSelectedCity(event.target.value);
-        setSelectedDistrict('');
-        setSelectedWard('');
-        setWards([]);
+      const selectedCityId = event.target.selectedOptions[0].getAttribute('data-id');
+      setSelectedCity(event.target.value);
+      setSelectedDistrict('');
+      setSelectedWard('');
+      setWards([]);
     
-        const selectedCityData = cities.find(city => city.Id === selectedCityId);
-        setDistricts(selectedCityData ? selectedCityData.Districts : []);
-      };
+      const selectedCityData = cities.find(city => city.Id === selectedCityId);
+      setDistricts(selectedCityData ? selectedCityData.Districts : []);
+    };
     
-      const handleDistrictChange = (event) => {
-        const selectedDistrictId = event.target.selectedOptions[0].getAttribute('data-id');
-        setSelectedDistrict(event.target.value);
-        setSelectedWard('');
+    const handleDistrictChange = (event) => {
+      const selectedDistrictId = event.target.selectedOptions[0].getAttribute('data-id');
+      setSelectedDistrict(event.target.value);
+      setSelectedWard('');
     
-        const selectedDistrictData = districts.find(district => district.Id === selectedDistrictId);
-        setWards(selectedDistrictData ? selectedDistrictData.Wards : []);
-      };
+      const selectedDistrictData = districts.find(district => district.Id === selectedDistrictId);
+      setWards(selectedDistrictData ? selectedDistrictData.Wards : []);
+    };
     
-      const handleWardChange = (event) => {
-        setSelectedWard(event.target.value);
-      };
+    const handleWardChange = (event) => {
+      setSelectedWard(event.target.value);
+    };
     
-      const handleAreaChange = (event) => {
-        setArea(event.target.value);
-      };
+    const handleAreaChange = (event) => {
+      setArea(event.target.value);
+    };
     
-      const handleStreetInputChange = (event) => {
-        setStreetInput(event.target.value);
-      };
+    const handleStreetInputChange = (event) => {
+      setStreetInput(event.target.value);
+    };
     
-      const handleLandTypeChange = (event) => {
-        setLandType(event.target.value);
-      };
+    const handleLandTypeChange = (event) => {
+      setLandType(event.target.value);
+    };
     
-      const handleUtilityChange = (event) => {
-        const value = event.target.value;
-        if (utilities.includes(value)) {
-          setUtilities(utilities.filter(utility => utility !== value));
-        } else {
-          setUtilities([...utilities, value]);
-        }
-      };
+    const handleUtilityChange = (event) => {
+      const value = event.target.value;
+      if (utilities.includes(value)) {
+        setUtilities(utilities.filter(utility => utility !== value));
+      } else {
+        setUtilities([...utilities, value]);
+      }
+    };
     
-      const handleCalculation = () => {
-        const cityName = cities.find(city => city.Id === selectedCity)?.Name || '';
-        const districtName = districts.find(district => district.Id === selectedDistrict)?.Name || '';
-        const wardName = wards.find(ward => ward.Id === selectedWard)?.Name || '';
+    const handleCalculation = () => {
+      const cityName = cities.find(city => city.Id === selectedCity)?.Name || '';
+      const districtName = districts.find(district => district.Id === selectedDistrict)?.Name || '';
+      const wardName = wards.find(ward => ward.Id === selectedWard)?.Name || '';
     
-        axios.get('http://127.0.0.1:5000/calculate', {
-          params: {
-            city: cityName,
-            district: districtName,
-            ward: wardName,
-            street: streetInput
-          }
-        })
-        .then(response => {
-          setResult(response.data.message);
-        })
-        .catch(error => {
-          console.error("There was an error fetching the result!", error);
-        });
-      };
-      
+      const userMessage = `My home is from ${cityName}, ${districtName}, ${wardName}, ${streetInput}, with area ${area}, land type ${landType}, and utilities ${utilities.join(', ')}. I want to calculate my home price.`;
+    
+      axios.post('http://127.0.0.1:3000/send-message', {
+        userMessage,
+        userId: 'User1' // Replace with actual user ID if available
+      })
+      .then(response => {
+        setResult(response.data.answer);
+      })
+      .catch(error => {
+        console.error("There was an error triggering the agent:", error);
+      });
+    };
+    
   
   return (
     <section className="header">
