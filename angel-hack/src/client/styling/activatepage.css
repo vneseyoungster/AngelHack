@@ -1,0 +1,31 @@
+.activate-container {
+    margin-top: 37px;
+    width: 1000px;
+    height: 602px;
+    background-color: transparent;
+}
+
+    .activate-box {
+        display: flex;
+        gap: 50px;
+        
+    }
+
+        .progress-bar {
+            width: 450px;
+            height: 400px;
+            background-color: antiquewhite;
+            color: black;
+        }
+            .progress {
+                padding-left: 20px;
+            }
+            .progress h3 {
+                font-size: 20px;
+            }
+        .detail-input {
+            width: 900px;
+            height: 536px;
+            background-color: antiquewhite;
+            color: black;
+        }
