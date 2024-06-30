@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teak-catalyst-411606",
+  "private_key_id": "788eeecd422e76a8658689d61650a4f011dd1844",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC2EKvquJ2DMTyw\nouEyw3ZFMI1L1+zCK/+3N64nTPePgzfVFnmrduL4Wt5A9pxjpCN2ex0FEMw0jMQ5\nky8CDFm4g2/BXv+C/kuKpuJ2OJsq5+bl+IK6Q0fOqLBzt/5ct9hxs7rUkCxRmLks\npHJB00AiaTREvLPbp4Ya3Dtl6g0ceDLuGsjzognGf5y0fti2KemczMgKmw0Gl5OU\nEyv1vtTNwmnWYPR9AGolyFhb8/c3BM52G2J4oiP76c18larS8itErBep6wraimFC\n1dgozngXJOlxE+KLQB46CZ/mYGuYQxt1uzbA9PphdLTBesorBsVNxXuclyAqaJqf\nRhXMYp75AgMBAAECggEALuRhWw2cqA8U6guxg+EbA5wLMGcXODWb4aUqKj4lHuX1\nieEFilePAtdomgPKaNF8PsZbxZO7fKdq3MdfWqAytZbIwF3G4oa7jyUHe9p9gJIF\nAuM8TFwK0Rvagpt3nIrPaQ2ZB6lweL2kp+5c7T5LLPG6wB94FZFytVVWyRt8sAGG\nlG9mkZYHTo3mTEl6VQDNLfrtdbAlOjYnBiIqyBm2Sk43W5GD56Y9Ef+JtaK4EXxj\nJNuh8kzcedYUwQigueLbkGcaPTAk5TgcypodrJi5G9UljjEgI+DvEzhHd++iFBLv\naDv6CMfyqRmpq4aMTdf1ogdwfpAyHncpKSNZUzQtjwKBgQD/lRb9Q52YylYECzp4\n4pbfM0aoyP4Rmgrn42/agGJ70A/GkXgPPXjwAZ6OCimckbeBYJrLsESxFfd4k4oR\ndB6NZOADyITkTHzDpAgIw+jdDBmzJ9BdL8N/yGasJlClTTaH7TL0mwg0woCYwVWJ\n9ONC8H8PIEMRevYU2NcCDf8jewKBgQC2XNRXFNtVq1C0d0B/XXjgQMz65p8J138l\ndMInEnQhTMw0qhgEhrXOkZBbZd8qsbs/Vu7ne9TCFCCQmm61BLbyDQsbVI8HuUzC\nsuDDi8b/M2HhuKCZZkycUXqCHvDMEYIEXFL9fHyp0f+d1DxWKKbfauLCBhDn22r5\ns7X+1BtTGwKBgQDsJktpk3IoXLwBXIaYb3TLossk5SGsDdMJ06HkGD/m+qW46Wwv\nWLNHv5dK0qUEH7eYeTROA/5USWGxLVGjMtGP/6bkmAACGZImCofJ4Yplw+pzGNRz\nZdCTXw1O/tABDEjYaxhr3ltEtHqxqeFpaLYbga9EwKB3pE9/j6OKKHiXxQKBgQCe\n0mgoU0TW7rYCBh4JDuo4PJeJKJN4KdNVVsPE7aBwZAcxEraKMpxihIn539Ylw9a1\nSkwVFNbuFENsTOOACdQfKNb0fYd4DZzZsJpqE/FCz4g+4uIT13F/bsLIUpQa1mCq\n1ZF9rQ6RhBAgb/gAfbUfvWIx4sCUfZdEU4x8nFQT4wKBgQDY0XKsS5NColWh2+I3\nNqCJx1oS6tU+Rz9iGMR/yIuxDPsab5fhOJFrMlmAfR5BabpjigbMBxV16+D3S0Ka\nN6DvQ92jk0I7BWF+q8YxXXefWDIswMTl46iNLUuhBaagjSv7BCajnhpyuHKqcRqI\n5Nesw6HzWbryk+2Z6W+wUG6jSg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "testingvisionaccount@teak-catalyst-411606.iam.gserviceaccount.com",
+  "client_id": "102226339567587370797",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testingvisionaccount%40teak-catalyst-411606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,10449 @@
+[
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "vi",
+    "description": "II. Thửa đất, nhà ở và tài sản khác gắn liền với đất\n1. Thira dát:\na) Thửa đất số: 8\nTo bán do só: 24\nb) Địa chỉ: xã Tân Hiệp, huyện Long Thành, tỉnh Đồng Nai\nc) Diện tích: 9455,7m\" (bằng chữ: chín nghìn bốn trăm năm mươi lăm phẩy bảy mét vuông)\nTrong đó: Diện tích được cấp: 9455,7m, Không được cấp: 0,0m\nd) Hình thức sử dụng: Sử dụng riêng\nđ) Mục đích sử dụng: Đất ở tại nông thôn 200,0m2;\nĐất trồng cây lâu năm 9255,7m.\ne) Thời hạn sử dụng: Đất ở: Lâu dài;\nĐất trồng cây lâu năm: sử dụng đến ngày 30/06/2049.\nđất có thu tiên\ng) Nguồn gốc sử dụng: Nhận chuyển nhượng đất được Công nhận QSDĐ như giao đất có thu tiền\nsử dụng đất 200,0 m\nNhận chuyển nhượng đất được Công nhận QSDĐ như giao đất không thu\ntiền sử dụng đất 9255,7 m.\n2 Nhà kinh\n3. Công trình xây dựng khác --\n4. Rừng sản xuất là rừng trồng: --\n5. Cây lâu năm: hạ\n6. Ghi chú:\nIII. Sơ đồ thửa đất, nhà ở và tài sản khác gắn liền với đất\n2\n12\nĐồng Nai, ngày 2 tháng 10, năm 2018\nSỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG TỈNH ĐỒNG NAI\nTUQ-GIÁM ĐỐC\nPHÓ GIÁM ĐỐC VĂN PHÒNG ĐĂNG KÝ ĐẤT ĐAI TỈNH ĐỒNG NAI\nSỞ\nTAINGYEN\nMÔI TRƯỜNG\nTrần Hữu Phước\noff\nDal\nSố hiệu | Chiều dài\nđịnh thửa (m)\n1\n99,64\n2\n92,55\n3\n105,55\n4\n50,51\n5\n6\n21,03\n16,38\n7\n3,94\nIV. Những thay đổi sau khi cấp giấy chứng nhận\nNội dung thay đổi và cơ sở pháp lý\nXác nhận của cơ\nquan có thẩm quyền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1,
+          "y": 45
+        },
+        {
+          "x": 977,
+          "y": 45
+        },
+        {
+          "x": 977,
+          "y": 706
+        },
+        {
+          "x": 1,
+          "y": 706
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "II",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1,
+          "y": 46
+        },
+        {
+          "x": 8,
+          "y": 46
+        },
+        {
+          "x": 8,
+          "y": 59
+        },
+        {
+          "x": 1,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 9,
+          "y": 46
+        },
+        {
+          "x": 10,
+          "y": 46
+        },
+        {
+          "x": 10,
+          "y": 59
+        },
+        {
+          "x": 9,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Thửa",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 14,
+          "y": 46
+        },
+        {
+          "x": 40,
+          "y": 46
+        },
+        {
+          "x": 40,
+          "y": 59
+        },
+        {
+          "x": 14,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 43,
+          "y": 46
+        },
+        {
+          "x": 58,
+          "y": 46
+        },
+        {
+          "x": 58,
+          "y": 59
+        },
+        {
+          "x": 43,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 59,
+          "y": 46
+        },
+        {
+          "x": 61,
+          "y": 46
+        },
+        {
+          "x": 61,
+          "y": 59
+        },
+        {
+          "x": 59,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhà",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 65,
+          "y": 46
+        },
+        {
+          "x": 82,
+          "y": 46
+        },
+        {
+          "x": 82,
+          "y": 59
+        },
+        {
+          "x": 65,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ở",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 86,
+          "y": 46
+        },
+        {
+          "x": 92,
+          "y": 46
+        },
+        {
+          "x": 92,
+          "y": 59
+        },
+        {
+          "x": 86,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "và",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 95,
+          "y": 46
+        },
+        {
+          "x": 106,
+          "y": 46
+        },
+        {
+          "x": 106,
+          "y": 59
+        },
+        {
+          "x": 95,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tài",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 110,
+          "y": 46
+        },
+        {
+          "x": 122,
+          "y": 46
+        },
+        {
+          "x": 122,
+          "y": 59
+        },
+        {
+          "x": 110,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sản",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 125,
+          "y": 46
+        },
+        {
+          "x": 141,
+          "y": 46
+        },
+        {
+          "x": 141,
+          "y": 59
+        },
+        {
+          "x": 125,
+          "y": 59
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "khác",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 145,
+          "y": 47
+        },
+        {
+          "x": 168,
+          "y": 47
+        },
+        {
+          "x": 168,
+          "y": 60
+        },
+        {
+          "x": 145,
+          "y": 60
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "gắn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 172,
+          "y": 47
+        },
+        {
+          "x": 189,
+          "y": 47
+        },
+        {
+          "x": 189,
+          "y": 60
+        },
+        {
+          "x": 172,
+          "y": 60
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "liền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 193,
+          "y": 47
+        },
+        {
+          "x": 210,
+          "y": 47
+        },
+        {
+          "x": 210,
+          "y": 60
+        },
+        {
+          "x": 193,
+          "y": 60
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "với",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 214,
+          "y": 47
+        },
+        {
+          "x": 228,
+          "y": 47
+        },
+        {
+          "x": 228,
+          "y": 60
+        },
+        {
+          "x": 214,
+          "y": 60
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 232,
+          "y": 47
+        },
+        {
+          "x": 247,
+          "y": 47
+        },
+        {
+          "x": 247,
+          "y": 60
+        },
+        {
+          "x": 232,
+          "y": 60
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1.",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 11,
+          "y": 63
+        },
+        {
+          "x": 19,
+          "y": 63
+        },
+        {
+          "x": 19,
+          "y": 74
+        },
+        {
+          "x": 11,
+          "y": 74
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Thira",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 22,
+          "y": 63
+        },
+        {
+          "x": 48,
+          "y": 62
+        },
+        {
+          "x": 48,
+          "y": 72
+        },
+        {
+          "x": 22,
+          "y": 73
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dát",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 50,
+          "y": 62
+        },
+        {
+          "x": 66,
+          "y": 62
+        },
+        {
+          "x": 66,
+          "y": 73
+        },
+        {
+          "x": 50,
+          "y": 73
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 65,
+          "y": 62
+        },
+        {
+          "x": 69,
+          "y": 62
+        },
+        {
+          "x": 69,
+          "y": 72
+        },
+        {
+          "x": 65,
+          "y": 72
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 24,
+          "y": 76
+        },
+        {
+          "x": 27,
+          "y": 76
+        },
+        {
+          "x": 27,
+          "y": 88
+        },
+        {
+          "x": 24,
+          "y": 88
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 28,
+          "y": 75
+        },
+        {
+          "x": 32,
+          "y": 75
+        },
+        {
+          "x": 32,
+          "y": 87
+        },
+        {
+          "x": 28,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Thửa",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 35,
+          "y": 75
+        },
+        {
+          "x": 58,
+          "y": 75
+        },
+        {
+          "x": 58,
+          "y": 87
+        },
+        {
+          "x": 35,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 62,
+          "y": 75
+        },
+        {
+          "x": 76,
+          "y": 75
+        },
+        {
+          "x": 76,
+          "y": 87
+        },
+        {
+          "x": 62,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "số",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 79,
+          "y": 75
+        },
+        {
+          "x": 87,
+          "y": 75
+        },
+        {
+          "x": 87,
+          "y": 87
+        },
+        {
+          "x": 79,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 89,
+          "y": 75
+        },
+        {
+          "x": 92,
+          "y": 75
+        },
+        {
+          "x": 92,
+          "y": 87
+        },
+        {
+          "x": 89,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "8",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 98,
+          "y": 74
+        },
+        {
+          "x": 103,
+          "y": 74
+        },
+        {
+          "x": 103,
+          "y": 86
+        },
+        {
+          "x": 98,
+          "y": 86
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "To",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 140,
+          "y": 76
+        },
+        {
+          "x": 154,
+          "y": 76
+        },
+        {
+          "x": 154,
+          "y": 87
+        },
+        {
+          "x": 140,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "bán",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 157,
+          "y": 76
+        },
+        {
+          "x": 173,
+          "y": 76
+        },
+        {
+          "x": 173,
+          "y": 87
+        },
+        {
+          "x": 157,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "do",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 177,
+          "y": 76
+        },
+        {
+          "x": 188,
+          "y": 76
+        },
+        {
+          "x": 188,
+          "y": 87
+        },
+        {
+          "x": 177,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "só",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 192,
+          "y": 76
+        },
+        {
+          "x": 202,
+          "y": 76
+        },
+        {
+          "x": 202,
+          "y": 87
+        },
+        {
+          "x": 192,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 202,
+          "y": 76
+        },
+        {
+          "x": 205,
+          "y": 76
+        },
+        {
+          "x": 205,
+          "y": 87
+        },
+        {
+          "x": 202,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "24",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 216,
+          "y": 76
+        },
+        {
+          "x": 228,
+          "y": 76
+        },
+        {
+          "x": 228,
+          "y": 87
+        },
+        {
+          "x": 216,
+          "y": 87
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "b",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 24,
+          "y": 87
+        },
+        {
+          "x": 28,
+          "y": 87
+        },
+        {
+          "x": 28,
+          "y": 105
+        },
+        {
+          "x": 24,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 29,
+          "y": 87
+        },
+        {
+          "x": 32,
+          "y": 87
+        },
+        {
+          "x": 32,
+          "y": 105
+        },
+        {
+          "x": 29,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Địa",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 36,
+          "y": 87
+        },
+        {
+          "x": 52,
+          "y": 87
+        },
+        {
+          "x": 52,
+          "y": 105
+        },
+        {
+          "x": 36,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chỉ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 55,
+          "y": 87
+        },
+        {
+          "x": 69,
+          "y": 87
+        },
+        {
+          "x": 69,
+          "y": 105
+        },
+        {
+          "x": 55,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 70,
+          "y": 87
+        },
+        {
+          "x": 74,
+          "y": 87
+        },
+        {
+          "x": 74,
+          "y": 105
+        },
+        {
+          "x": 70,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "xã",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 76,
+          "y": 87
+        },
+        {
+          "x": 88,
+          "y": 87
+        },
+        {
+          "x": 88,
+          "y": 105
+        },
+        {
+          "x": 76,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Tân",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 89,
+          "y": 87
+        },
+        {
+          "x": 107,
+          "y": 87
+        },
+        {
+          "x": 107,
+          "y": 105
+        },
+        {
+          "x": 89,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Hiệp",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 110,
+          "y": 87
+        },
+        {
+          "x": 130,
+          "y": 87
+        },
+        {
+          "x": 130,
+          "y": 105
+        },
+        {
+          "x": 110,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 132,
+          "y": 87
+        },
+        {
+          "x": 136,
+          "y": 87
+        },
+        {
+          "x": 136,
+          "y": 105
+        },
+        {
+          "x": 132,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "huyện",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 138,
+          "y": 87
+        },
+        {
+          "x": 167,
+          "y": 87
+        },
+        {
+          "x": 167,
+          "y": 105
+        },
+        {
+          "x": 138,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Long",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 170,
+          "y": 87
+        },
+        {
+          "x": 194,
+          "y": 87
+        },
+        {
+          "x": 194,
+          "y": 105
+        },
+        {
+          "x": 170,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Thành",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 197,
+          "y": 87
+        },
+        {
+          "x": 224,
+          "y": 87
+        },
+        {
+          "x": 224,
+          "y": 105
+        },
+        {
+          "x": 197,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 226,
+          "y": 87
+        },
+        {
+          "x": 229,
+          "y": 87
+        },
+        {
+          "x": 229,
+          "y": 105
+        },
+        {
+          "x": 226,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tỉnh",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 232,
+          "y": 87
+        },
+        {
+          "x": 250,
+          "y": 87
+        },
+        {
+          "x": 250,
+          "y": 105
+        },
+        {
+          "x": 232,
+          "y": 105
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đồng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 253,
+          "y": 88
+        },
+        {
+          "x": 279,
+          "y": 88
+        },
+        {
+          "x": 279,
+          "y": 106
+        },
+        {
+          "x": 253,
+          "y": 106
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nai",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 282,
+          "y": 88
+        },
+        {
+          "x": 298,
+          "y": 88
+        },
+        {
+          "x": 298,
+          "y": 106
+        },
+        {
+          "x": 282,
+          "y": 106
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "c",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 24,
+          "y": 100
+        },
+        {
+          "x": 28,
+          "y": 100
+        },
+        {
+          "x": 28,
+          "y": 115
+        },
+        {
+          "x": 24,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 29,
+          "y": 100
+        },
+        {
+          "x": 32,
+          "y": 100
+        },
+        {
+          "x": 32,
+          "y": 115
+        },
+        {
+          "x": 29,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Diện",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 36,
+          "y": 100
+        },
+        {
+          "x": 57,
+          "y": 100
+        },
+        {
+          "x": 57,
+          "y": 115
+        },
+        {
+          "x": 36,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tích",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 60,
+          "y": 100
+        },
+        {
+          "x": 74,
+          "y": 100
+        },
+        {
+          "x": 74,
+          "y": 115
+        },
+        {
+          "x": 60,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 76,
+          "y": 100
+        },
+        {
+          "x": 80,
+          "y": 100
+        },
+        {
+          "x": 80,
+          "y": 115
+        },
+        {
+          "x": 76,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "9455,7m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 82,
+          "y": 100
+        },
+        {
+          "x": 119,
+          "y": 100
+        },
+        {
+          "x": 119,
+          "y": 115
+        },
+        {
+          "x": 82,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "\"",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 123,
+          "y": 100
+        },
+        {
+          "x": 128,
+          "y": 100
+        },
+        {
+          "x": 128,
+          "y": 115
+        },
+        {
+          "x": 123,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "(",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 130,
+          "y": 100
+        },
+        {
+          "x": 133,
+          "y": 100
+        },
+        {
+          "x": 133,
+          "y": 115
+        },
+        {
+          "x": 130,
+          "y": 115
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "bằng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 133,
+          "y": 101
+        },
+        {
+          "x": 153,
+          "y": 101
+        },
+        {
+          "x": 153,
+          "y": 116
+        },
+        {
+          "x": 133,
+          "y": 116
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chữ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 159,
+          "y": 101
+        },
+        {
+          "x": 172,
+          "y": 101
+        },
+        {
+          "x": 172,
+          "y": 116
+        },
+        {
+          "x": 159,
+          "y": 116
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 174,
+          "y": 101
+        },
+        {
+          "x": 178,
+          "y": 101
+        },
+        {
+          "x": 178,
+          "y": 116
+        },
+        {
+          "x": 174,
+          "y": 116
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chín",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 182,
+          "y": 101
+        },
+        {
+          "x": 203,
+          "y": 101
+        },
+        {
+          "x": 203,
+          "y": 116
+        },
+        {
+          "x": 182,
+          "y": 116
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nghìn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 207,
+          "y": 101
+        },
+        {
+          "x": 233,
+          "y": 101
+        },
+        {
+          "x": 233,
+          "y": 116
+        },
+        {
+          "x": 207,
+          "y": 116
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "bốn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 236,
+          "y": 101
+        },
+        {
+          "x": 253,
+          "y": 101
+        },
+        {
+          "x": 253,
+          "y": 117
+        },
+        {
+          "x": 236,
+          "y": 117
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "trăm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 255,
+          "y": 102
+        },
+        {
+          "x": 276,
+          "y": 102
+        },
+        {
+          "x": 276,
+          "y": 117
+        },
+        {
+          "x": 255,
+          "y": 117
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "năm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 280,
+          "y": 102
+        },
+        {
+          "x": 299,
+          "y": 102
+        },
+        {
+          "x": 299,
+          "y": 117
+        },
+        {
+          "x": 280,
+          "y": 117
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "mươi",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 303,
+          "y": 102
+        },
+        {
+          "x": 327,
+          "y": 102
+        },
+        {
+          "x": 327,
+          "y": 117
+        },
+        {
+          "x": 303,
+          "y": 117
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "lăm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 331,
+          "y": 102
+        },
+        {
+          "x": 348,
+          "y": 102
+        },
+        {
+          "x": 348,
+          "y": 117
+        },
+        {
+          "x": 331,
+          "y": 117
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "phẩy",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 351,
+          "y": 102
+        },
+        {
+          "x": 373,
+          "y": 102
+        },
+        {
+          "x": 373,
+          "y": 118
+        },
+        {
+          "x": 351,
+          "y": 118
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "bảy",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 377,
+          "y": 103
+        },
+        {
+          "x": 393,
+          "y": 103
+        },
+        {
+          "x": 393,
+          "y": 118
+        },
+        {
+          "x": 377,
+          "y": 118
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "mét",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 397,
+          "y": 103
+        },
+        {
+          "x": 414,
+          "y": 103
+        },
+        {
+          "x": 414,
+          "y": 118
+        },
+        {
+          "x": 397,
+          "y": 118
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "vuông",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 418,
+          "y": 103
+        },
+        {
+          "x": 445,
+          "y": 103
+        },
+        {
+          "x": 445,
+          "y": 118
+        },
+        {
+          "x": 418,
+          "y": 118
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 447,
+          "y": 103
+        },
+        {
+          "x": 450,
+          "y": 103
+        },
+        {
+          "x": 450,
+          "y": 118
+        },
+        {
+          "x": 447,
+          "y": 118
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Trong",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 35,
+          "y": 114
+        },
+        {
+          "x": 62,
+          "y": 114
+        },
+        {
+          "x": 62,
+          "y": 128
+        },
+        {
+          "x": 35,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đó",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 65,
+          "y": 114
+        },
+        {
+          "x": 74,
+          "y": 114
+        },
+        {
+          "x": 74,
+          "y": 128
+        },
+        {
+          "x": 65,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 76,
+          "y": 114
+        },
+        {
+          "x": 79,
+          "y": 114
+        },
+        {
+          "x": 79,
+          "y": 128
+        },
+        {
+          "x": 76,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Diện",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 83,
+          "y": 114
+        },
+        {
+          "x": 104,
+          "y": 114
+        },
+        {
+          "x": 104,
+          "y": 128
+        },
+        {
+          "x": 83,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tích",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 108,
+          "y": 114
+        },
+        {
+          "x": 125,
+          "y": 114
+        },
+        {
+          "x": 125,
+          "y": 128
+        },
+        {
+          "x": 108,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "được",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 128,
+          "y": 114
+        },
+        {
+          "x": 151,
+          "y": 114
+        },
+        {
+          "x": 151,
+          "y": 128
+        },
+        {
+          "x": 128,
+          "y": 128
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cấp",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 153,
+          "y": 114
+        },
+        {
+          "x": 166,
+          "y": 114
+        },
+        {
+          "x": 166,
+          "y": 129
+        },
+        {
+          "x": 153,
+          "y": 129
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 168,
+          "y": 115
+        },
+        {
+          "x": 172,
+          "y": 115
+        },
+        {
+          "x": 172,
+          "y": 129
+        },
+        {
+          "x": 168,
+          "y": 129
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "9455,7m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 175,
+          "y": 115
+        },
+        {
+          "x": 211,
+          "y": 115
+        },
+        {
+          "x": 211,
+          "y": 129
+        },
+        {
+          "x": 175,
+          "y": 129
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 216,
+          "y": 115
+        },
+        {
+          "x": 222,
+          "y": 115
+        },
+        {
+          "x": 222,
+          "y": 129
+        },
+        {
+          "x": 216,
+          "y": 129
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Không",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 250,
+          "y": 115
+        },
+        {
+          "x": 281,
+          "y": 115
+        },
+        {
+          "x": 281,
+          "y": 132
+        },
+        {
+          "x": 250,
+          "y": 132
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "được",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 284,
+          "y": 115
+        },
+        {
+          "x": 307,
+          "y": 115
+        },
+        {
+          "x": 307,
+          "y": 132
+        },
+        {
+          "x": 284,
+          "y": 132
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cấp",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 311,
+          "y": 115
+        },
+        {
+          "x": 325,
+          "y": 115
+        },
+        {
+          "x": 325,
+          "y": 132
+        },
+        {
+          "x": 311,
+          "y": 132
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 326,
+          "y": 115
+        },
+        {
+          "x": 329,
+          "y": 115
+        },
+        {
+          "x": 329,
+          "y": 132
+        },
+        {
+          "x": 326,
+          "y": 132
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "0,0m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 331,
+          "y": 115
+        },
+        {
+          "x": 352,
+          "y": 115
+        },
+        {
+          "x": 352,
+          "y": 132
+        },
+        {
+          "x": 331,
+          "y": 132
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "d",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 23,
+          "y": 126
+        },
+        {
+          "x": 29,
+          "y": 126
+        },
+        {
+          "x": 29,
+          "y": 142
+        },
+        {
+          "x": 23,
+          "y": 142
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 30,
+          "y": 126
+        },
+        {
+          "x": 33,
+          "y": 126
+        },
+        {
+          "x": 33,
+          "y": 142
+        },
+        {
+          "x": 30,
+          "y": 142
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Hình",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 34,
+          "y": 126
+        },
+        {
+          "x": 54,
+          "y": 126
+        },
+        {
+          "x": 54,
+          "y": 142
+        },
+        {
+          "x": 34,
+          "y": 142
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thức",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 62,
+          "y": 126
+        },
+        {
+          "x": 83,
+          "y": 126
+        },
+        {
+          "x": 83,
+          "y": 142
+        },
+        {
+          "x": 62,
+          "y": 142
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 85,
+          "y": 126
+        },
+        {
+          "x": 95,
+          "y": 126
+        },
+        {
+          "x": 95,
+          "y": 142
+        },
+        {
+          "x": 85,
+          "y": 142
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 96,
+          "y": 126
+        },
+        {
+          "x": 118,
+          "y": 126
+        },
+        {
+          "x": 118,
+          "y": 143
+        },
+        {
+          "x": 96,
+          "y": 143
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 120,
+          "y": 127
+        },
+        {
+          "x": 122,
+          "y": 127
+        },
+        {
+          "x": 122,
+          "y": 143
+        },
+        {
+          "x": 120,
+          "y": 143
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 127,
+          "y": 127
+        },
+        {
+          "x": 140,
+          "y": 127
+        },
+        {
+          "x": 140,
+          "y": 143
+        },
+        {
+          "x": 127,
+          "y": 143
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 143,
+          "y": 127
+        },
+        {
+          "x": 166,
+          "y": 127
+        },
+        {
+          "x": 166,
+          "y": 143
+        },
+        {
+          "x": 143,
+          "y": 143
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "riêng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 169,
+          "y": 127
+        },
+        {
+          "x": 193,
+          "y": 127
+        },
+        {
+          "x": 193,
+          "y": 144
+        },
+        {
+          "x": 169,
+          "y": 144
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 23,
+          "y": 139
+        },
+        {
+          "x": 28,
+          "y": 139
+        },
+        {
+          "x": 28,
+          "y": 155
+        },
+        {
+          "x": 23,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 29,
+          "y": 139
+        },
+        {
+          "x": 31,
+          "y": 139
+        },
+        {
+          "x": 31,
+          "y": 155
+        },
+        {
+          "x": 29,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Mục",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 36,
+          "y": 139
+        },
+        {
+          "x": 56,
+          "y": 139
+        },
+        {
+          "x": 56,
+          "y": 155
+        },
+        {
+          "x": 36,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đích",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 60,
+          "y": 139
+        },
+        {
+          "x": 78,
+          "y": 139
+        },
+        {
+          "x": 78,
+          "y": 155
+        },
+        {
+          "x": 60,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 82,
+          "y": 139
+        },
+        {
+          "x": 93,
+          "y": 139
+        },
+        {
+          "x": 93,
+          "y": 155
+        },
+        {
+          "x": 82,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 94,
+          "y": 139
+        },
+        {
+          "x": 116,
+          "y": 139
+        },
+        {
+          "x": 116,
+          "y": 155
+        },
+        {
+          "x": 94,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 118,
+          "y": 139
+        },
+        {
+          "x": 121,
+          "y": 139
+        },
+        {
+          "x": 121,
+          "y": 155
+        },
+        {
+          "x": 118,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 125,
+          "y": 139
+        },
+        {
+          "x": 141,
+          "y": 139
+        },
+        {
+          "x": 141,
+          "y": 155
+        },
+        {
+          "x": 125,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ở",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 145,
+          "y": 139
+        },
+        {
+          "x": 149,
+          "y": 139
+        },
+        {
+          "x": 149,
+          "y": 155
+        },
+        {
+          "x": 145,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tại",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 154,
+          "y": 139
+        },
+        {
+          "x": 165,
+          "y": 139
+        },
+        {
+          "x": 165,
+          "y": 155
+        },
+        {
+          "x": 154,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nông",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 168,
+          "y": 139
+        },
+        {
+          "x": 192,
+          "y": 139
+        },
+        {
+          "x": 192,
+          "y": 155
+        },
+        {
+          "x": 168,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thôn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 194,
+          "y": 139
+        },
+        {
+          "x": 214,
+          "y": 139
+        },
+        {
+          "x": 214,
+          "y": 155
+        },
+        {
+          "x": 194,
+          "y": 155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "200,0m2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 217,
+          "y": 139
+        },
+        {
+          "x": 256,
+          "y": 139
+        },
+        {
+          "x": 256,
+          "y": 156
+        },
+        {
+          "x": 217,
+          "y": 156
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ";",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 256,
+          "y": 140
+        },
+        {
+          "x": 258,
+          "y": 140
+        },
+        {
+          "x": 258,
+          "y": 156
+        },
+        {
+          "x": 256,
+          "y": 156
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 124,
+          "y": 152
+        },
+        {
+          "x": 139,
+          "y": 152
+        },
+        {
+          "x": 139,
+          "y": 169
+        },
+        {
+          "x": 124,
+          "y": 169
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "trồng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 142,
+          "y": 152
+        },
+        {
+          "x": 166,
+          "y": 152
+        },
+        {
+          "x": 166,
+          "y": 169
+        },
+        {
+          "x": 142,
+          "y": 169
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cây",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 171,
+          "y": 152
+        },
+        {
+          "x": 183,
+          "y": 152
+        },
+        {
+          "x": 183,
+          "y": 169
+        },
+        {
+          "x": 171,
+          "y": 169
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "lâu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 188,
+          "y": 152
+        },
+        {
+          "x": 201,
+          "y": 152
+        },
+        {
+          "x": 201,
+          "y": 169
+        },
+        {
+          "x": 188,
+          "y": 169
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "năm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 206,
+          "y": 152
+        },
+        {
+          "x": 225,
+          "y": 152
+        },
+        {
+          "x": 225,
+          "y": 170
+        },
+        {
+          "x": 206,
+          "y": 170
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "9255,7m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 228,
+          "y": 153
+        },
+        {
+          "x": 273,
+          "y": 153
+        },
+        {
+          "x": 273,
+          "y": 170
+        },
+        {
+          "x": 228,
+          "y": 170
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 274,
+          "y": 153
+        },
+        {
+          "x": 275,
+          "y": 153
+        },
+        {
+          "x": 275,
+          "y": 170
+        },
+        {
+          "x": 274,
+          "y": 170
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "e",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 22,
+          "y": 165
+        },
+        {
+          "x": 27,
+          "y": 165
+        },
+        {
+          "x": 27,
+          "y": 182
+        },
+        {
+          "x": 22,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 28,
+          "y": 165
+        },
+        {
+          "x": 32,
+          "y": 165
+        },
+        {
+          "x": 32,
+          "y": 182
+        },
+        {
+          "x": 28,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Thời",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 34,
+          "y": 165
+        },
+        {
+          "x": 56,
+          "y": 165
+        },
+        {
+          "x": 56,
+          "y": 182
+        },
+        {
+          "x": 34,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "hạn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 59,
+          "y": 165
+        },
+        {
+          "x": 75,
+          "y": 165
+        },
+        {
+          "x": 75,
+          "y": 182
+        },
+        {
+          "x": 59,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 78,
+          "y": 165
+        },
+        {
+          "x": 89,
+          "y": 165
+        },
+        {
+          "x": 89,
+          "y": 182
+        },
+        {
+          "x": 78,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 92,
+          "y": 165
+        },
+        {
+          "x": 113,
+          "y": 165
+        },
+        {
+          "x": 113,
+          "y": 182
+        },
+        {
+          "x": 92,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 114,
+          "y": 165
+        },
+        {
+          "x": 117,
+          "y": 165
+        },
+        {
+          "x": 117,
+          "y": 182
+        },
+        {
+          "x": 114,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 121,
+          "y": 165
+        },
+        {
+          "x": 138,
+          "y": 165
+        },
+        {
+          "x": 138,
+          "y": 182
+        },
+        {
+          "x": 121,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ở",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 140,
+          "y": 165
+        },
+        {
+          "x": 145,
+          "y": 165
+        },
+        {
+          "x": 145,
+          "y": 182
+        },
+        {
+          "x": 140,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 146,
+          "y": 165
+        },
+        {
+          "x": 150,
+          "y": 165
+        },
+        {
+          "x": 150,
+          "y": 182
+        },
+        {
+          "x": 146,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Lâu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 152,
+          "y": 165
+        },
+        {
+          "x": 170,
+          "y": 165
+        },
+        {
+          "x": 170,
+          "y": 182
+        },
+        {
+          "x": 152,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dài",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 171,
+          "y": 165
+        },
+        {
+          "x": 188,
+          "y": 165
+        },
+        {
+          "x": 188,
+          "y": 182
+        },
+        {
+          "x": 171,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ";",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 189,
+          "y": 165
+        },
+        {
+          "x": 191,
+          "y": 165
+        },
+        {
+          "x": 191,
+          "y": 182
+        },
+        {
+          "x": 189,
+          "y": 182
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 120,
+          "y": 178
+        },
+        {
+          "x": 136,
+          "y": 178
+        },
+        {
+          "x": 136,
+          "y": 195
+        },
+        {
+          "x": 120,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "trồng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 139,
+          "y": 178
+        },
+        {
+          "x": 163,
+          "y": 178
+        },
+        {
+          "x": 163,
+          "y": 195
+        },
+        {
+          "x": 139,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cây",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 166,
+          "y": 178
+        },
+        {
+          "x": 182,
+          "y": 178
+        },
+        {
+          "x": 182,
+          "y": 195
+        },
+        {
+          "x": 166,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "lâu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 182,
+          "y": 178
+        },
+        {
+          "x": 199,
+          "y": 178
+        },
+        {
+          "x": 199,
+          "y": 195
+        },
+        {
+          "x": 182,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "năm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 203,
+          "y": 178
+        },
+        {
+          "x": 216,
+          "y": 178
+        },
+        {
+          "x": 216,
+          "y": 195
+        },
+        {
+          "x": 203,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 220,
+          "y": 178
+        },
+        {
+          "x": 225,
+          "y": 178
+        },
+        {
+          "x": 225,
+          "y": 195
+        },
+        {
+          "x": 220,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 229,
+          "y": 178
+        },
+        {
+          "x": 239,
+          "y": 178
+        },
+        {
+          "x": 239,
+          "y": 195
+        },
+        {
+          "x": 229,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 241,
+          "y": 178
+        },
+        {
+          "x": 265,
+          "y": 178
+        },
+        {
+          "x": 265,
+          "y": 195
+        },
+        {
+          "x": 241,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đến",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 268,
+          "y": 178
+        },
+        {
+          "x": 285,
+          "y": 178
+        },
+        {
+          "x": 285,
+          "y": 195
+        },
+        {
+          "x": 268,
+          "y": 195
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ngày",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 288,
+          "y": 179
+        },
+        {
+          "x": 310,
+          "y": 179
+        },
+        {
+          "x": 310,
+          "y": 196
+        },
+        {
+          "x": 288,
+          "y": 196
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "30/06/2049",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 314,
+          "y": 179
+        },
+        {
+          "x": 366,
+          "y": 179
+        },
+        {
+          "x": 366,
+          "y": 196
+        },
+        {
+          "x": 314,
+          "y": 196
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 367,
+          "y": 179
+        },
+        {
+          "x": 369,
+          "y": 179
+        },
+        {
+          "x": 369,
+          "y": 196
+        },
+        {
+          "x": 367,
+          "y": 196
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 408,
+          "y": 177
+        },
+        {
+          "x": 423,
+          "y": 176
+        },
+        {
+          "x": 425,
+          "y": 214
+        },
+        {
+          "x": 410,
+          "y": 215
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "có",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 424,
+          "y": 176
+        },
+        {
+          "x": 436,
+          "y": 175
+        },
+        {
+          "x": 438,
+          "y": 212
+        },
+        {
+          "x": 426,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 439,
+          "y": 175
+        },
+        {
+          "x": 453,
+          "y": 174
+        },
+        {
+          "x": 455,
+          "y": 212
+        },
+        {
+          "x": 441,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tiên",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 457,
+          "y": 174
+        },
+        {
+          "x": 473,
+          "y": 173
+        },
+        {
+          "x": 475,
+          "y": 211
+        },
+        {
+          "x": 459,
+          "y": 212
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "g",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 22,
+          "y": 190
+        },
+        {
+          "x": 26,
+          "y": 190
+        },
+        {
+          "x": 26,
+          "y": 210
+        },
+        {
+          "x": 22,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 27,
+          "y": 190
+        },
+        {
+          "x": 34,
+          "y": 190
+        },
+        {
+          "x": 34,
+          "y": 210
+        },
+        {
+          "x": 27,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nguồn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 35,
+          "y": 190
+        },
+        {
+          "x": 66,
+          "y": 190
+        },
+        {
+          "x": 66,
+          "y": 210
+        },
+        {
+          "x": 35,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "gốc",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 67,
+          "y": 190
+        },
+        {
+          "x": 86,
+          "y": 190
+        },
+        {
+          "x": 86,
+          "y": 210
+        },
+        {
+          "x": 67,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 88,
+          "y": 190
+        },
+        {
+          "x": 99,
+          "y": 190
+        },
+        {
+          "x": 99,
+          "y": 210
+        },
+        {
+          "x": 88,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 102,
+          "y": 190
+        },
+        {
+          "x": 122,
+          "y": 190
+        },
+        {
+          "x": 122,
+          "y": 210
+        },
+        {
+          "x": 102,
+          "y": 210
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 124,
+          "y": 191
+        },
+        {
+          "x": 127,
+          "y": 191
+        },
+        {
+          "x": 127,
+          "y": 211
+        },
+        {
+          "x": 124,
+          "y": 211
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 131,
+          "y": 191
+        },
+        {
+          "x": 155,
+          "y": 191
+        },
+        {
+          "x": 155,
+          "y": 211
+        },
+        {
+          "x": 131,
+          "y": 211
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chuyển",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 157,
+          "y": 191
+        },
+        {
+          "x": 192,
+          "y": 191
+        },
+        {
+          "x": 192,
+          "y": 211
+        },
+        {
+          "x": 157,
+          "y": 211
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhượng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 195,
+          "y": 191
+        },
+        {
+          "x": 230,
+          "y": 191
+        },
+        {
+          "x": 230,
+          "y": 212
+        },
+        {
+          "x": 195,
+          "y": 212
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 233,
+          "y": 192
+        },
+        {
+          "x": 247,
+          "y": 192
+        },
+        {
+          "x": 247,
+          "y": 212
+        },
+        {
+          "x": 233,
+          "y": 212
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "được",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 249,
+          "y": 192
+        },
+        {
+          "x": 273,
+          "y": 192
+        },
+        {
+          "x": 273,
+          "y": 212
+        },
+        {
+          "x": 249,
+          "y": 212
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Công",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 277,
+          "y": 192
+        },
+        {
+          "x": 302,
+          "y": 192
+        },
+        {
+          "x": 302,
+          "y": 212
+        },
+        {
+          "x": 277,
+          "y": 212
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 305,
+          "y": 192
+        },
+        {
+          "x": 327,
+          "y": 192
+        },
+        {
+          "x": 327,
+          "y": 213
+        },
+        {
+          "x": 305,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "QSDĐ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 331,
+          "y": 193
+        },
+        {
+          "x": 363,
+          "y": 193
+        },
+        {
+          "x": 363,
+          "y": 213
+        },
+        {
+          "x": 331,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "như",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 366,
+          "y": 193
+        },
+        {
+          "x": 384,
+          "y": 193
+        },
+        {
+          "x": 384,
+          "y": 213
+        },
+        {
+          "x": 366,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "giao",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 387,
+          "y": 193
+        },
+        {
+          "x": 407,
+          "y": 193
+        },
+        {
+          "x": 407,
+          "y": 213
+        },
+        {
+          "x": 387,
+          "y": 213
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 410,
+          "y": 193
+        },
+        {
+          "x": 424,
+          "y": 193
+        },
+        {
+          "x": 424,
+          "y": 214
+        },
+        {
+          "x": 410,
+          "y": 214
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "có",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 427,
+          "y": 194
+        },
+        {
+          "x": 438,
+          "y": 194
+        },
+        {
+          "x": 438,
+          "y": 214
+        },
+        {
+          "x": 427,
+          "y": 214
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 442,
+          "y": 194
+        },
+        {
+          "x": 456,
+          "y": 194
+        },
+        {
+          "x": 456,
+          "y": 214
+        },
+        {
+          "x": 442,
+          "y": 214
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tiền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 459,
+          "y": 194
+        },
+        {
+          "x": 477,
+          "y": 194
+        },
+        {
+          "x": 477,
+          "y": 214
+        },
+        {
+          "x": 459,
+          "y": 214
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 25,
+          "y": 206
+        },
+        {
+          "x": 36,
+          "y": 206
+        },
+        {
+          "x": 36,
+          "y": 220
+        },
+        {
+          "x": 25,
+          "y": 220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 38,
+          "y": 206
+        },
+        {
+          "x": 61,
+          "y": 206
+        },
+        {
+          "x": 61,
+          "y": 220
+        },
+        {
+          "x": 38,
+          "y": 220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 63,
+          "y": 206
+        },
+        {
+          "x": 77,
+          "y": 206
+        },
+        {
+          "x": 77,
+          "y": 220
+        },
+        {
+          "x": 63,
+          "y": 220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "200,0",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 82,
+          "y": 206
+        },
+        {
+          "x": 107,
+          "y": 206
+        },
+        {
+          "x": 107,
+          "y": 220
+        },
+        {
+          "x": 82,
+          "y": 220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 109,
+          "y": 206
+        },
+        {
+          "x": 113,
+          "y": 206
+        },
+        {
+          "x": 113,
+          "y": 220
+        },
+        {
+          "x": 109,
+          "y": 220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 22,
+          "y": 217
+        },
+        {
+          "x": 47,
+          "y": 217
+        },
+        {
+          "x": 47,
+          "y": 237
+        },
+        {
+          "x": 22,
+          "y": 237
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chuyển",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 48,
+          "y": 217
+        },
+        {
+          "x": 81,
+          "y": 217
+        },
+        {
+          "x": 81,
+          "y": 237
+        },
+        {
+          "x": 48,
+          "y": 237
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhượng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 84,
+          "y": 217
+        },
+        {
+          "x": 121,
+          "y": 217
+        },
+        {
+          "x": 121,
+          "y": 237
+        },
+        {
+          "x": 84,
+          "y": 237
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 122,
+          "y": 217
+        },
+        {
+          "x": 136,
+          "y": 217
+        },
+        {
+          "x": 136,
+          "y": 237
+        },
+        {
+          "x": 122,
+          "y": 237
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "được",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 140,
+          "y": 217
+        },
+        {
+          "x": 163,
+          "y": 217
+        },
+        {
+          "x": 163,
+          "y": 238
+        },
+        {
+          "x": 140,
+          "y": 238
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Công",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 166,
+          "y": 218
+        },
+        {
+          "x": 191,
+          "y": 218
+        },
+        {
+          "x": 191,
+          "y": 238
+        },
+        {
+          "x": 166,
+          "y": 238
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 194,
+          "y": 218
+        },
+        {
+          "x": 217,
+          "y": 218
+        },
+        {
+          "x": 217,
+          "y": 238
+        },
+        {
+          "x": 194,
+          "y": 238
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "QSDĐ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 220,
+          "y": 218
+        },
+        {
+          "x": 251,
+          "y": 218
+        },
+        {
+          "x": 251,
+          "y": 238
+        },
+        {
+          "x": 220,
+          "y": 238
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "như",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 254,
+          "y": 218
+        },
+        {
+          "x": 272,
+          "y": 218
+        },
+        {
+          "x": 272,
+          "y": 238
+        },
+        {
+          "x": 254,
+          "y": 238
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "giao",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 275,
+          "y": 219
+        },
+        {
+          "x": 295,
+          "y": 219
+        },
+        {
+          "x": 295,
+          "y": 239
+        },
+        {
+          "x": 275,
+          "y": 239
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 298,
+          "y": 219
+        },
+        {
+          "x": 313,
+          "y": 219
+        },
+        {
+          "x": 313,
+          "y": 239
+        },
+        {
+          "x": 298,
+          "y": 239
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "không",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 316,
+          "y": 219
+        },
+        {
+          "x": 345,
+          "y": 219
+        },
+        {
+          "x": 345,
+          "y": 239
+        },
+        {
+          "x": 316,
+          "y": 239
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 348,
+          "y": 219
+        },
+        {
+          "x": 363,
+          "y": 219
+        },
+        {
+          "x": 363,
+          "y": 239
+        },
+        {
+          "x": 348,
+          "y": 239
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tiền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 25,
+          "y": 231
+        },
+        {
+          "x": 40,
+          "y": 231
+        },
+        {
+          "x": 40,
+          "y": 247
+        },
+        {
+          "x": 25,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sử",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 45,
+          "y": 231
+        },
+        {
+          "x": 55,
+          "y": 231
+        },
+        {
+          "x": 55,
+          "y": 247
+        },
+        {
+          "x": 45,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dụng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 57,
+          "y": 231
+        },
+        {
+          "x": 80,
+          "y": 231
+        },
+        {
+          "x": 80,
+          "y": 247
+        },
+        {
+          "x": 57,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 84,
+          "y": 231
+        },
+        {
+          "x": 98,
+          "y": 231
+        },
+        {
+          "x": 98,
+          "y": 247
+        },
+        {
+          "x": 84,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "9255,7",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 101,
+          "y": 231
+        },
+        {
+          "x": 132,
+          "y": 231
+        },
+        {
+          "x": 132,
+          "y": 247
+        },
+        {
+          "x": 101,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 135,
+          "y": 231
+        },
+        {
+          "x": 147,
+          "y": 231
+        },
+        {
+          "x": 147,
+          "y": 247
+        },
+        {
+          "x": 135,
+          "y": 247
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 148,
+          "y": 232
+        },
+        {
+          "x": 150,
+          "y": 232
+        },
+        {
+          "x": 150,
+          "y": 248
+        },
+        {
+          "x": 148,
+          "y": 248
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 9,
+          "y": 251
+        },
+        {
+          "x": 16,
+          "y": 251
+        },
+        {
+          "x": 16,
+          "y": 261
+        },
+        {
+          "x": 9,
+          "y": 261
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nhà",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 19,
+          "y": 251
+        },
+        {
+          "x": 40,
+          "y": 251
+        },
+        {
+          "x": 40,
+          "y": 261
+        },
+        {
+          "x": 19,
+          "y": 261
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "kinh",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 44,
+          "y": 251
+        },
+        {
+          "x": 66,
+          "y": 251
+        },
+        {
+          "x": 66,
+          "y": 261
+        },
+        {
+          "x": 44,
+          "y": 261
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "3.",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 9,
+          "y": 267
+        },
+        {
+          "x": 15,
+          "y": 267
+        },
+        {
+          "x": 15,
+          "y": 279
+        },
+        {
+          "x": 9,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Công",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 19,
+          "y": 267
+        },
+        {
+          "x": 44,
+          "y": 267
+        },
+        {
+          "x": 44,
+          "y": 279
+        },
+        {
+          "x": 19,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "trình",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 47,
+          "y": 267
+        },
+        {
+          "x": 70,
+          "y": 267
+        },
+        {
+          "x": 70,
+          "y": 279
+        },
+        {
+          "x": 47,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "xây",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 73,
+          "y": 267
+        },
+        {
+          "x": 91,
+          "y": 267
+        },
+        {
+          "x": 91,
+          "y": 279
+        },
+        {
+          "x": 73,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dựng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 94,
+          "y": 267
+        },
+        {
+          "x": 119,
+          "y": 267
+        },
+        {
+          "x": 119,
+          "y": 279
+        },
+        {
+          "x": 94,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "khác",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 122,
+          "y": 267
+        },
+        {
+          "x": 148,
+          "y": 267
+        },
+        {
+          "x": 148,
+          "y": 279
+        },
+        {
+          "x": 122,
+          "y": 279
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "--",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 155,
+          "y": 267
+        },
+        {
+          "x": 165,
+          "y": 267
+        },
+        {
+          "x": 165,
+          "y": 280
+        },
+        {
+          "x": 155,
+          "y": 280
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "4.",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 8,
+          "y": 281
+        },
+        {
+          "x": 16,
+          "y": 281
+        },
+        {
+          "x": 16,
+          "y": 295
+        },
+        {
+          "x": 8,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Rừng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 20,
+          "y": 281
+        },
+        {
+          "x": 46,
+          "y": 281
+        },
+        {
+          "x": 46,
+          "y": 295
+        },
+        {
+          "x": 20,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sản",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 49,
+          "y": 281
+        },
+        {
+          "x": 66,
+          "y": 281
+        },
+        {
+          "x": 66,
+          "y": 295
+        },
+        {
+          "x": 49,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "xuất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 67,
+          "y": 281
+        },
+        {
+          "x": 89,
+          "y": 281
+        },
+        {
+          "x": 89,
+          "y": 295
+        },
+        {
+          "x": 67,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "là",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 92,
+          "y": 281
+        },
+        {
+          "x": 102,
+          "y": 281
+        },
+        {
+          "x": 102,
+          "y": 295
+        },
+        {
+          "x": 92,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "rừng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 104,
+          "y": 281
+        },
+        {
+          "x": 128,
+          "y": 281
+        },
+        {
+          "x": 128,
+          "y": 295
+        },
+        {
+          "x": 104,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "trồng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 131,
+          "y": 281
+        },
+        {
+          "x": 154,
+          "y": 281
+        },
+        {
+          "x": 154,
+          "y": 295
+        },
+        {
+          "x": 131,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 155,
+          "y": 281
+        },
+        {
+          "x": 159,
+          "y": 281
+        },
+        {
+          "x": 159,
+          "y": 295
+        },
+        {
+          "x": 155,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "--",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 164,
+          "y": 281
+        },
+        {
+          "x": 174,
+          "y": 281
+        },
+        {
+          "x": 174,
+          "y": 295
+        },
+        {
+          "x": 164,
+          "y": 295
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "5.",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 9,
+          "y": 297
+        },
+        {
+          "x": 16,
+          "y": 297
+        },
+        {
+          "x": 16,
+          "y": 311
+        },
+        {
+          "x": 9,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Cây",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 20,
+          "y": 297
+        },
+        {
+          "x": 38,
+          "y": 297
+        },
+        {
+          "x": 38,
+          "y": 311
+        },
+        {
+          "x": 20,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "lâu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 41,
+          "y": 297
+        },
+        {
+          "x": 56,
+          "y": 297
+        },
+        {
+          "x": 56,
+          "y": 311
+        },
+        {
+          "x": 41,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "năm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 59,
+          "y": 297
+        },
+        {
+          "x": 75,
+          "y": 297
+        },
+        {
+          "x": 75,
+          "y": 311
+        },
+        {
+          "x": 59,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 79,
+          "y": 297
+        },
+        {
+          "x": 84,
+          "y": 297
+        },
+        {
+          "x": 84,
+          "y": 311
+        },
+        {
+          "x": 79,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "hạ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 92,
+          "y": 297
+        },
+        {
+          "x": 95,
+          "y": 297
+        },
+        {
+          "x": 95,
+          "y": 311
+        },
+        {
+          "x": 92,
+          "y": 311
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "6.",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 8,
+          "y": 314
+        },
+        {
+          "x": 15,
+          "y": 314
+        },
+        {
+          "x": 15,
+          "y": 323
+        },
+        {
+          "x": 8,
+          "y": 323
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Ghi",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 19,
+          "y": 314
+        },
+        {
+          "x": 37,
+          "y": 314
+        },
+        {
+          "x": 37,
+          "y": 323
+        },
+        {
+          "x": 19,
+          "y": 323
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chú",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 39,
+          "y": 314
+        },
+        {
+          "x": 55,
+          "y": 314
+        },
+        {
+          "x": 55,
+          "y": 323
+        },
+        {
+          "x": 39,
+          "y": 323
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ":",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 58,
+          "y": 314
+        },
+        {
+          "x": 62,
+          "y": 314
+        },
+        {
+          "x": 62,
+          "y": 323
+        },
+        {
+          "x": 58,
+          "y": 323
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "III",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 537,
+          "y": 50
+        },
+        {
+          "x": 549,
+          "y": 50
+        },
+        {
+          "x": 549,
+          "y": 63
+        },
+        {
+          "x": 537,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 550,
+          "y": 50
+        },
+        {
+          "x": 552,
+          "y": 50
+        },
+        {
+          "x": 552,
+          "y": 63
+        },
+        {
+          "x": 550,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Sơ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 556,
+          "y": 50
+        },
+        {
+          "x": 569,
+          "y": 50
+        },
+        {
+          "x": 569,
+          "y": 63
+        },
+        {
+          "x": 556,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đồ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 572,
+          "y": 50
+        },
+        {
+          "x": 582,
+          "y": 50
+        },
+        {
+          "x": 582,
+          "y": 63
+        },
+        {
+          "x": 572,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thửa",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 587,
+          "y": 50
+        },
+        {
+          "x": 609,
+          "y": 50
+        },
+        {
+          "x": 609,
+          "y": 63
+        },
+        {
+          "x": 587,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 613,
+          "y": 50
+        },
+        {
+          "x": 629,
+          "y": 50
+        },
+        {
+          "x": 629,
+          "y": 63
+        },
+        {
+          "x": 613,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 630,
+          "y": 50
+        },
+        {
+          "x": 632,
+          "y": 50
+        },
+        {
+          "x": 632,
+          "y": 63
+        },
+        {
+          "x": 630,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhà",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 636,
+          "y": 50
+        },
+        {
+          "x": 654,
+          "y": 50
+        },
+        {
+          "x": 654,
+          "y": 63
+        },
+        {
+          "x": 636,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ở",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 657,
+          "y": 50
+        },
+        {
+          "x": 664,
+          "y": 50
+        },
+        {
+          "x": 664,
+          "y": 63
+        },
+        {
+          "x": 657,
+          "y": 63
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "và",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 667,
+          "y": 50
+        },
+        {
+          "x": 678,
+          "y": 50
+        },
+        {
+          "x": 678,
+          "y": 64
+        },
+        {
+          "x": 667,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tài",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 682,
+          "y": 51
+        },
+        {
+          "x": 694,
+          "y": 51
+        },
+        {
+          "x": 694,
+          "y": 64
+        },
+        {
+          "x": 682,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sản",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 698,
+          "y": 51
+        },
+        {
+          "x": 714,
+          "y": 51
+        },
+        {
+          "x": 714,
+          "y": 64
+        },
+        {
+          "x": 698,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "khác",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 718,
+          "y": 51
+        },
+        {
+          "x": 741,
+          "y": 51
+        },
+        {
+          "x": 741,
+          "y": 64
+        },
+        {
+          "x": 718,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "gắn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 745,
+          "y": 51
+        },
+        {
+          "x": 762,
+          "y": 51
+        },
+        {
+          "x": 762,
+          "y": 64
+        },
+        {
+          "x": 745,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "liền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 766,
+          "y": 51
+        },
+        {
+          "x": 784,
+          "y": 51
+        },
+        {
+          "x": 784,
+          "y": 64
+        },
+        {
+          "x": 766,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "với",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 788,
+          "y": 51
+        },
+        {
+          "x": 803,
+          "y": 51
+        },
+        {
+          "x": 803,
+          "y": 64
+        },
+        {
+          "x": 788,
+          "y": 64
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đất",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 806,
+          "y": 52
+        },
+        {
+          "x": 822,
+          "y": 52
+        },
+        {
+          "x": 822,
+          "y": 65
+        },
+        {
+          "x": 806,
+          "y": 65
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 683,
+          "y": 323
+        },
+        {
+          "x": 688,
+          "y": 322
+        },
+        {
+          "x": 689,
+          "y": 329
+        },
+        {
+          "x": 685,
+          "y": 330
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "12",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 770,
+          "y": 315
+        },
+        {
+          "x": 780,
+          "y": 314
+        },
+        {
+          "x": 781,
+          "y": 320
+        },
+        {
+          "x": 771,
+          "y": 322
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Đồng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 204,
+          "y": 544
+        },
+        {
+          "x": 229,
+          "y": 544
+        },
+        {
+          "x": 229,
+          "y": 562
+        },
+        {
+          "x": 204,
+          "y": 562
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nai",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 232,
+          "y": 544
+        },
+        {
+          "x": 248,
+          "y": 544
+        },
+        {
+          "x": 248,
+          "y": 562
+        },
+        {
+          "x": 232,
+          "y": 562
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 249,
+          "y": 544
+        },
+        {
+          "x": 251,
+          "y": 544
+        },
+        {
+          "x": 251,
+          "y": 562
+        },
+        {
+          "x": 249,
+          "y": 562
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ngày",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 253,
+          "y": 544
+        },
+        {
+          "x": 275,
+          "y": 544
+        },
+        {
+          "x": 275,
+          "y": 563
+        },
+        {
+          "x": 253,
+          "y": 563
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 283,
+          "y": 545
+        },
+        {
+          "x": 288,
+          "y": 545
+        },
+        {
+          "x": 288,
+          "y": 563
+        },
+        {
+          "x": 283,
+          "y": 563
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "tháng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 298,
+          "y": 545
+        },
+        {
+          "x": 323,
+          "y": 545
+        },
+        {
+          "x": 323,
+          "y": 563
+        },
+        {
+          "x": 298,
+          "y": 563
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "10",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 326,
+          "y": 545
+        },
+        {
+          "x": 335,
+          "y": 545
+        },
+        {
+          "x": 335,
+          "y": 564
+        },
+        {
+          "x": 326,
+          "y": 564
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 336,
+          "y": 546
+        },
+        {
+          "x": 340,
+          "y": 546
+        },
+        {
+          "x": 340,
+          "y": 564
+        },
+        {
+          "x": 336,
+          "y": 564
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "năm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 344,
+          "y": 546
+        },
+        {
+          "x": 364,
+          "y": 546
+        },
+        {
+          "x": 364,
+          "y": 564
+        },
+        {
+          "x": 344,
+          "y": 564
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2018",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 367,
+          "y": 546
+        },
+        {
+          "x": 390,
+          "y": 546
+        },
+        {
+          "x": 390,
+          "y": 564
+        },
+        {
+          "x": 367,
+          "y": 564
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "SỞ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 153,
+          "y": 560
+        },
+        {
+          "x": 169,
+          "y": 560
+        },
+        {
+          "x": 169,
+          "y": 576
+        },
+        {
+          "x": 153,
+          "y": 576
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TÀI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 171,
+          "y": 560
+        },
+        {
+          "x": 191,
+          "y": 560
+        },
+        {
+          "x": 191,
+          "y": 576
+        },
+        {
+          "x": 171,
+          "y": 576
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "NGUYÊN",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 195,
+          "y": 560
+        },
+        {
+          "x": 244,
+          "y": 561
+        },
+        {
+          "x": 244,
+          "y": 578
+        },
+        {
+          "x": 195,
+          "y": 577
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "VÀ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 248,
+          "y": 561
+        },
+        {
+          "x": 263,
+          "y": 561
+        },
+        {
+          "x": 263,
+          "y": 577
+        },
+        {
+          "x": 248,
+          "y": 577
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "MÔI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 267,
+          "y": 562
+        },
+        {
+          "x": 291,
+          "y": 562
+        },
+        {
+          "x": 291,
+          "y": 578
+        },
+        {
+          "x": 267,
+          "y": 578
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TRƯỜNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 294,
+          "y": 562
+        },
+        {
+          "x": 346,
+          "y": 563
+        },
+        {
+          "x": 346,
+          "y": 580
+        },
+        {
+          "x": 294,
+          "y": 579
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TỈNH",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 349,
+          "y": 563
+        },
+        {
+          "x": 378,
+          "y": 564
+        },
+        {
+          "x": 378,
+          "y": 580
+        },
+        {
+          "x": 349,
+          "y": 579
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐỒNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 382,
+          "y": 564
+        },
+        {
+          "x": 416,
+          "y": 565
+        },
+        {
+          "x": 416,
+          "y": 581
+        },
+        {
+          "x": 382,
+          "y": 580
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "NAI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 420,
+          "y": 564
+        },
+        {
+          "x": 440,
+          "y": 564
+        },
+        {
+          "x": 440,
+          "y": 581
+        },
+        {
+          "x": 420,
+          "y": 581
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TUQ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 248,
+          "y": 578
+        },
+        {
+          "x": 274,
+          "y": 578
+        },
+        {
+          "x": 274,
+          "y": 593
+        },
+        {
+          "x": 248,
+          "y": 593
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "-",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 276,
+          "y": 578
+        },
+        {
+          "x": 280,
+          "y": 578
+        },
+        {
+          "x": 280,
+          "y": 593
+        },
+        {
+          "x": 276,
+          "y": 593
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "GIÁM",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 280,
+          "y": 578
+        },
+        {
+          "x": 312,
+          "y": 578
+        },
+        {
+          "x": 312,
+          "y": 593
+        },
+        {
+          "x": 280,
+          "y": 593
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐỐC",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 316,
+          "y": 578
+        },
+        {
+          "x": 341,
+          "y": 578
+        },
+        {
+          "x": 341,
+          "y": 593
+        },
+        {
+          "x": 316,
+          "y": 593
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "PHÓ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 114,
+          "y": 584
+        },
+        {
+          "x": 135,
+          "y": 584
+        },
+        {
+          "x": 135,
+          "y": 603
+        },
+        {
+          "x": 114,
+          "y": 603
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "GIÁM",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 140,
+          "y": 584
+        },
+        {
+          "x": 168,
+          "y": 585
+        },
+        {
+          "x": 168,
+          "y": 604
+        },
+        {
+          "x": 140,
+          "y": 603
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐỐC",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 177,
+          "y": 585
+        },
+        {
+          "x": 201,
+          "y": 585
+        },
+        {
+          "x": 201,
+          "y": 604
+        },
+        {
+          "x": 177,
+          "y": 604
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "VĂN",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 206,
+          "y": 585
+        },
+        {
+          "x": 229,
+          "y": 585
+        },
+        {
+          "x": 229,
+          "y": 605
+        },
+        {
+          "x": 206,
+          "y": 605
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "PHÒNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 233,
+          "y": 585
+        },
+        {
+          "x": 273,
+          "y": 586
+        },
+        {
+          "x": 273,
+          "y": 606
+        },
+        {
+          "x": 233,
+          "y": 605
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐĂNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 279,
+          "y": 587
+        },
+        {
+          "x": 309,
+          "y": 588
+        },
+        {
+          "x": 309,
+          "y": 607
+        },
+        {
+          "x": 279,
+          "y": 606
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "KÝ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 315,
+          "y": 587
+        },
+        {
+          "x": 331,
+          "y": 587
+        },
+        {
+          "x": 331,
+          "y": 606
+        },
+        {
+          "x": 315,
+          "y": 606
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐẤT",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 337,
+          "y": 588
+        },
+        {
+          "x": 360,
+          "y": 588
+        },
+        {
+          "x": 360,
+          "y": 607
+        },
+        {
+          "x": 337,
+          "y": 607
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐAI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 364,
+          "y": 588
+        },
+        {
+          "x": 384,
+          "y": 588
+        },
+        {
+          "x": 384,
+          "y": 607
+        },
+        {
+          "x": 364,
+          "y": 607
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TỈNH",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 390,
+          "y": 589
+        },
+        {
+          "x": 414,
+          "y": 589
+        },
+        {
+          "x": 414,
+          "y": 608
+        },
+        {
+          "x": 390,
+          "y": 608
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ĐỒNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 419,
+          "y": 589
+        },
+        {
+          "x": 452,
+          "y": 590
+        },
+        {
+          "x": 452,
+          "y": 610
+        },
+        {
+          "x": 419,
+          "y": 609
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "NAI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 459,
+          "y": 590
+        },
+        {
+          "x": 479,
+          "y": 590
+        },
+        {
+          "x": 479,
+          "y": 609
+        },
+        {
+          "x": 459,
+          "y": 609
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "SỞ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 257,
+          "y": 603
+        },
+        {
+          "x": 272,
+          "y": 603
+        },
+        {
+          "x": 272,
+          "y": 612
+        },
+        {
+          "x": 257,
+          "y": 612
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TAINGYEN",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 239,
+          "y": 615
+        },
+        {
+          "x": 292,
+          "y": 617
+        },
+        {
+          "x": 292,
+          "y": 627
+        },
+        {
+          "x": 239,
+          "y": 625
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "MÔI",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 238,
+          "y": 636
+        },
+        {
+          "x": 256,
+          "y": 637
+        },
+        {
+          "x": 255,
+          "y": 652
+        },
+        {
+          "x": 237,
+          "y": 651
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "TRƯỜNG",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 259,
+          "y": 637
+        },
+        {
+          "x": 289,
+          "y": 638
+        },
+        {
+          "x": 288,
+          "y": 653
+        },
+        {
+          "x": 258,
+          "y": 652
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Trần",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 246,
+          "y": 689
+        },
+        {
+          "x": 273,
+          "y": 690
+        },
+        {
+          "x": 273,
+          "y": 704
+        },
+        {
+          "x": 246,
+          "y": 703
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Hữu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 277,
+          "y": 690
+        },
+        {
+          "x": 302,
+          "y": 691
+        },
+        {
+          "x": 302,
+          "y": 705
+        },
+        {
+          "x": 277,
+          "y": 704
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Phước",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 306,
+          "y": 691
+        },
+        {
+          "x": 341,
+          "y": 692
+        },
+        {
+          "x": 341,
+          "y": 706
+        },
+        {
+          "x": 306,
+          "y": 705
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "off",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 935,
+          "y": 90
+        },
+        {
+          "x": 945,
+          "y": 90
+        },
+        {
+          "x": 946,
+          "y": 123
+        },
+        {
+          "x": 936,
+          "y": 123
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Dal",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 944,
+          "y": 329
+        },
+        {
+          "x": 967,
+          "y": 329
+        },
+        {
+          "x": 967,
+          "y": 344
+        },
+        {
+          "x": 944,
+          "y": 344
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Số",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 885,
+          "y": 350
+        },
+        {
+          "x": 897,
+          "y": 351
+        },
+        {
+          "x": 896,
+          "y": 365
+        },
+        {
+          "x": 884,
+          "y": 364
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "hiệu",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 900,
+          "y": 350
+        },
+        {
+          "x": 919,
+          "y": 351
+        },
+        {
+          "x": 918,
+          "y": 366
+        },
+        {
+          "x": 899,
+          "y": 365
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "|",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 927,
+          "y": 351
+        },
+        {
+          "x": 930,
+          "y": 351
+        },
+        {
+          "x": 929,
+          "y": 365
+        },
+        {
+          "x": 926,
+          "y": 365
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Chiều",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 933,
+          "y": 351
+        },
+        {
+          "x": 960,
+          "y": 352
+        },
+        {
+          "x": 959,
+          "y": 367
+        },
+        {
+          "x": 932,
+          "y": 366
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dài",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 963,
+          "y": 353
+        },
+        {
+          "x": 977,
+          "y": 354
+        },
+        {
+          "x": 976,
+          "y": 368
+        },
+        {
+          "x": 962,
+          "y": 367
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "định",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 880,
+          "y": 365
+        },
+        {
+          "x": 896,
+          "y": 365
+        },
+        {
+          "x": 896,
+          "y": 375
+        },
+        {
+          "x": 880,
+          "y": 375
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thửa",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 903,
+          "y": 365
+        },
+        {
+          "x": 921,
+          "y": 366
+        },
+        {
+          "x": 921,
+          "y": 377
+        },
+        {
+          "x": 903,
+          "y": 376
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "(",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 946,
+          "y": 371
+        },
+        {
+          "x": 950,
+          "y": 371
+        },
+        {
+          "x": 950,
+          "y": 379
+        },
+        {
+          "x": 946,
+          "y": 379
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "m",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 950,
+          "y": 371
+        },
+        {
+          "x": 958,
+          "y": 371
+        },
+        {
+          "x": 958,
+          "y": 379
+        },
+        {
+          "x": 950,
+          "y": 379
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 957,
+          "y": 371
+        },
+        {
+          "x": 962,
+          "y": 371
+        },
+        {
+          "x": 962,
+          "y": 379
+        },
+        {
+          "x": 957,
+          "y": 379
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 896,
+          "y": 387
+        },
+        {
+          "x": 900,
+          "y": 387
+        },
+        {
+          "x": 900,
+          "y": 394
+        },
+        {
+          "x": 896,
+          "y": 394
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "99,64",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 949,
+          "y": 395
+        },
+        {
+          "x": 974,
+          "y": 395
+        },
+        {
+          "x": 974,
+          "y": 402
+        },
+        {
+          "x": 949,
+          "y": 402
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 894,
+          "y": 400
+        },
+        {
+          "x": 901,
+          "y": 400
+        },
+        {
+          "x": 901,
+          "y": 407
+        },
+        {
+          "x": 894,
+          "y": 407
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "92,55",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 949,
+          "y": 407
+        },
+        {
+          "x": 975,
+          "y": 407
+        },
+        {
+          "x": 975,
+          "y": 415
+        },
+        {
+          "x": 949,
+          "y": 415
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "3",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 895,
+          "y": 413
+        },
+        {
+          "x": 900,
+          "y": 413
+        },
+        {
+          "x": 900,
+          "y": 420
+        },
+        {
+          "x": 895,
+          "y": 420
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "105,55",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 944,
+          "y": 421
+        },
+        {
+          "x": 975,
+          "y": 421
+        },
+        {
+          "x": 975,
+          "y": 429
+        },
+        {
+          "x": 944,
+          "y": 429
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "4",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 894,
+          "y": 427
+        },
+        {
+          "x": 901,
+          "y": 427
+        },
+        {
+          "x": 901,
+          "y": 434
+        },
+        {
+          "x": 894,
+          "y": 434
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "50,51",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 949,
+          "y": 434
+        },
+        {
+          "x": 974,
+          "y": 434
+        },
+        {
+          "x": 974,
+          "y": 442
+        },
+        {
+          "x": 949,
+          "y": 442
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "5",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 894,
+          "y": 440
+        },
+        {
+          "x": 899,
+          "y": 440
+        },
+        {
+          "x": 899,
+          "y": 447
+        },
+        {
+          "x": 894,
+          "y": 447
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "6",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 894,
+          "y": 452
+        },
+        {
+          "x": 900,
+          "y": 452
+        },
+        {
+          "x": 900,
+          "y": 459
+        },
+        {
+          "x": 894,
+          "y": 459
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "21,03",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 948,
+          "y": 447
+        },
+        {
+          "x": 975,
+          "y": 447
+        },
+        {
+          "x": 975,
+          "y": 456
+        },
+        {
+          "x": 948,
+          "y": 456
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "16,38",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 950,
+          "y": 460
+        },
+        {
+          "x": 974,
+          "y": 460
+        },
+        {
+          "x": 974,
+          "y": 469
+        },
+        {
+          "x": 950,
+          "y": 469
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "7",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 894,
+          "y": 466
+        },
+        {
+          "x": 899,
+          "y": 466
+        },
+        {
+          "x": 899,
+          "y": 473
+        },
+        {
+          "x": 894,
+          "y": 473
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "3,94",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 954,
+          "y": 473
+        },
+        {
+          "x": 974,
+          "y": 473
+        },
+        {
+          "x": 974,
+          "y": 482
+        },
+        {
+          "x": 954,
+          "y": 482
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "IV",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 632,
+          "y": 500
+        },
+        {
+          "x": 638,
+          "y": 500
+        },
+        {
+          "x": 638,
+          "y": 516
+        },
+        {
+          "x": 632,
+          "y": 516
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 640,
+          "y": 500
+        },
+        {
+          "x": 644,
+          "y": 500
+        },
+        {
+          "x": 644,
+          "y": 516
+        },
+        {
+          "x": 640,
+          "y": 516
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Những",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 648,
+          "y": 500
+        },
+        {
+          "x": 680,
+          "y": 500
+        },
+        {
+          "x": 680,
+          "y": 516
+        },
+        {
+          "x": 648,
+          "y": 516
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thay",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 686,
+          "y": 500
+        },
+        {
+          "x": 705,
+          "y": 500
+        },
+        {
+          "x": 705,
+          "y": 516
+        },
+        {
+          "x": 686,
+          "y": 516
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đổi",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 709,
+          "y": 500
+        },
+        {
+          "x": 724,
+          "y": 500
+        },
+        {
+          "x": 724,
+          "y": 517
+        },
+        {
+          "x": 709,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sau",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 727,
+          "y": 501
+        },
+        {
+          "x": 742,
+          "y": 501
+        },
+        {
+          "x": 742,
+          "y": 517
+        },
+        {
+          "x": 727,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "khi",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 748,
+          "y": 501
+        },
+        {
+          "x": 764,
+          "y": 501
+        },
+        {
+          "x": 764,
+          "y": 517
+        },
+        {
+          "x": 748,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cấp",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 770,
+          "y": 501
+        },
+        {
+          "x": 783,
+          "y": 501
+        },
+        {
+          "x": 783,
+          "y": 517
+        },
+        {
+          "x": 770,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "giấy",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 791,
+          "y": 501
+        },
+        {
+          "x": 806,
+          "y": 501
+        },
+        {
+          "x": 806,
+          "y": 517
+        },
+        {
+          "x": 791,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chứng",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 814,
+          "y": 502
+        },
+        {
+          "x": 841,
+          "y": 502
+        },
+        {
+          "x": 841,
+          "y": 518
+        },
+        {
+          "x": 814,
+          "y": 518
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 846,
+          "y": 502
+        },
+        {
+          "x": 870,
+          "y": 502
+        },
+        {
+          "x": 870,
+          "y": 518
+        },
+        {
+          "x": 846,
+          "y": 518
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Nội",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 604,
+          "y": 521
+        },
+        {
+          "x": 621,
+          "y": 521
+        },
+        {
+          "x": 621,
+          "y": 536
+        },
+        {
+          "x": 604,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "dung",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 625,
+          "y": 521
+        },
+        {
+          "x": 648,
+          "y": 521
+        },
+        {
+          "x": 648,
+          "y": 536
+        },
+        {
+          "x": 625,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thay",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 651,
+          "y": 521
+        },
+        {
+          "x": 671,
+          "y": 521
+        },
+        {
+          "x": 671,
+          "y": 536
+        },
+        {
+          "x": 651,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "đổi",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 674,
+          "y": 521
+        },
+        {
+          "x": 689,
+          "y": 521
+        },
+        {
+          "x": 689,
+          "y": 536
+        },
+        {
+          "x": 674,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "và",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 692,
+          "y": 521
+        },
+        {
+          "x": 703,
+          "y": 521
+        },
+        {
+          "x": 703,
+          "y": 536
+        },
+        {
+          "x": 692,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cơ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 706,
+          "y": 522
+        },
+        {
+          "x": 718,
+          "y": 522
+        },
+        {
+          "x": 718,
+          "y": 537
+        },
+        {
+          "x": 706,
+          "y": 537
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "sở",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 721,
+          "y": 522
+        },
+        {
+          "x": 732,
+          "y": 522
+        },
+        {
+          "x": 732,
+          "y": 537
+        },
+        {
+          "x": 721,
+          "y": 537
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "pháp",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 735,
+          "y": 522
+        },
+        {
+          "x": 757,
+          "y": 522
+        },
+        {
+          "x": 757,
+          "y": 537
+        },
+        {
+          "x": 735,
+          "y": 537
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "lý",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 761,
+          "y": 522
+        },
+        {
+          "x": 769,
+          "y": 522
+        },
+        {
+          "x": 769,
+          "y": 537
+        },
+        {
+          "x": 761,
+          "y": 537
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Xác",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 883,
+          "y": 522
+        },
+        {
+          "x": 901,
+          "y": 522
+        },
+        {
+          "x": 901,
+          "y": 535
+        },
+        {
+          "x": 883,
+          "y": 535
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "nhận",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 906,
+          "y": 522
+        },
+        {
+          "x": 929,
+          "y": 523
+        },
+        {
+          "x": 929,
+          "y": 536
+        },
+        {
+          "x": 906,
+          "y": 535
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "của",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 931,
+          "y": 523
+        },
+        {
+          "x": 949,
+          "y": 523
+        },
+        {
+          "x": 949,
+          "y": 536
+        },
+        {
+          "x": 931,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "cơ",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 952,
+          "y": 523
+        },
+        {
+          "x": 965,
+          "y": 523
+        },
+        {
+          "x": 965,
+          "y": 536
+        },
+        {
+          "x": 952,
+          "y": 536
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "quan",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 875,
+          "y": 533
+        },
+        {
+          "x": 894,
+          "y": 533
+        },
+        {
+          "x": 894,
+          "y": 550
+        },
+        {
+          "x": 875,
+          "y": 550
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "có",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 902,
+          "y": 533
+        },
+        {
+          "x": 910,
+          "y": 533
+        },
+        {
+          "x": 910,
+          "y": 550
+        },
+        {
+          "x": 902,
+          "y": 550
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "thẩm",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 916,
+          "y": 533
+        },
+        {
+          "x": 933,
+          "y": 533
+        },
+        {
+          "x": 933,
+          "y": 550
+        },
+        {
+          "x": 916,
+          "y": 550
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "quyền",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 941,
+          "y": 533
+        },
+        {
+          "x": 968,
+          "y": 533
+        },
+        {
+          "x": 968,
+          "y": 550
+        },
+        {
+          "x": 941,
+          "y": 550
+        }
+      ],
+      "normalizedVertices": []
+    }
+  }
+]

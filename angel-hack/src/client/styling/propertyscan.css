@@ -1,0 +1,53 @@
+.property-scan {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .property-scan h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .property-scan form div {
+    margin-bottom: 15px;
+  }
+  
+  .property-scan label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .property-scan input[type="file"] {
+    width: 100%;
+  }
+  
+  .property-scan img {
+    display: block;
+    max-width: 100%;
+    max-height: 200px; /* Limit the height of the image */
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    object-fit: contain; /* Ensure the image fits within the bounds */
+  }
+  
+  .property-scan button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .property-scan button:hover {
+    background-color: #0056b3;
+  }
+  
