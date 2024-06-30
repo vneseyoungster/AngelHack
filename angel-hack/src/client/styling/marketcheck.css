@@ -16,13 +16,22 @@
 }
 
 .result-box {
+    margin-top: 50px;
     margin-right: 0px;
+    max-width: 600px;
+    max-height: 500px;
+    background-color: #FFAEAD;
+
 }
 
 .result-box h1 {
     width: 600px;
     height: 600px;
-    background-color: #FF6966;
+    font-size: 50px;
+    text-align: center;
+    
+
+
 }
   
   .form-group {

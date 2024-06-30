@@ -7,6 +7,7 @@ import ActivatePage from './client/components/activatepage'
 import Assets_function from './client/components/assets_function';
 import MarketCheck from './client/components/marketcheck'
 import PropertyScan from './client/components/propertyscan';
+import I_Test from './client/components/I_Test';
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
         <Route path="/assets-evaluate" element={<Assets_function />} />
         <Route path="/marketcheck" element={<MarketCheck />} />
         <Route path="/propertyscan" element={<PropertyScan />} />
+        <Route path="/testing" element={<I_Test />} />
+
 
 
 

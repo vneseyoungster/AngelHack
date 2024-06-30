@@ -1,4 +1,6 @@
 import {React, useState, useEffect} from 'react';
+import { useNavigate } from 'react-router-dom';
+
 import axios from 'axios';
 
 import '/Volumes/Extreme Pro/Personal/AngelHack/angel-hack/src/client/styling/marketcheck.css'; // Assuming you have a CSS file for styling
@@ -20,6 +22,8 @@ const MarketCheck = () => {
     const [cities, setCities] = useState([]);
     const [districts, setDistricts] = useState([]);
     const [wards, setWards] = useState([]);
+    const navigate = useNavigate(); // Hook for navigation
+
   
   
     useEffect(() => {
@@ -101,7 +105,7 @@ const MarketCheck = () => {
     <section className="header">
       <div className="logo">
         <img src={iconlogo} alt="Lowkey Soul Logo" className="logo-image" />
-        <span className="logo-text">Lowkey Soul</span>
+        <span className="logo-text">Financial Inclusion Solution</span>
       </div>
       <div className='header-bar'>
         <div className="user-options">
@@ -183,16 +187,16 @@ const MarketCheck = () => {
               <label>What kind of utility do you have?</label>
               <div className='checkbox-group'>
                 <label>
-                  <input type='checkbox' value='electricity' checked={utilities.includes('electricity')} onChange={handleUtilityChange} /> Electricity
+                  <input type='checkbox' value='electricity' checked={utilities.includes('electricity')} onChange={handleUtilityChange} /> Siêu thị
                 </label>
                 <label>
-                  <input type='checkbox' value='water' checked={utilities.includes('water')} onChange={handleUtilityChange} /> Water
+                  <input type='checkbox' value='water' checked={utilities.includes('water')} onChange={handleUtilityChange} /> Bệnh viện
                 </label>
                 <label>
-                  <input type='checkbox' value='internet' checked={utilities.includes('internet')} onChange={handleUtilityChange} /> Internet
+                  <input type='checkbox' value='internet' checked={utilities.includes('internet')} onChange={handleUtilityChange} /> Khu vui chơi
                 </label>
                 <label>
-                  <input type='checkbox' value='gas' checked={utilities.includes('gas')} onChange={handleUtilityChange} /> Gas
+                  <input type='checkbox' value='gas' checked={utilities.includes('gas')} onChange={handleUtilityChange} /> Đường huyết mạch
                 </label>
               </div>
             </div>

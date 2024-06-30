@@ -1,0 +1,148 @@
+
+
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f9fa;
+  background-image: url("/Volumes/Extreme Pro/Personal/AngelHack/angel-hack/src/assets/homebackground.png");
+  background-size: 100%;
+  padding-bottom: 100%;
+  
+}
+
+
+
+.logo {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+.logo-image {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff6b6b;
+}
+
+.user-options {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+
+.user-name {
+  display: flex;
+  align-items: center;
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.activate-account {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.activate-account:hover {
+  background-color: #0056b3;
+}
+
+.information-box {
+  display: flex;
+}
+
+.information-details {
+  display: flex;
+  gap: 20px;
+}
+
+.information-item {
+  cursor: pointer;
+}
+
+.information-item:hover {
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 600px;
+  background-color: white;
+  color: black;
+}
+.property-scan .image-preview {
+  display: block;
+  max-width: 100%;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.property-scan button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}

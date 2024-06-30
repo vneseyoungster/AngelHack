@@ -1,53 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
 .property-scan {
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-  }
-  
-  .property-scan h1 {
-    text-align: center;
-    margin-bottom: 20px;
-  }
-  
-  .property-scan form div {
-    margin-bottom: 15px;
-  }
-  
-  .property-scan label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-  }
-  
-  .property-scan input[type="file"] {
-    width: 100%;
-  }
-  
-  .property-scan img {
-    display: block;
-    max-width: 100%;
-    max-height: 200px; /* Limit the height of the image */
-    margin-top: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    object-fit: contain; /* Ensure the image fits within the bounds */
-  }
-  
-  .property-scan button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .property-scan button:hover {
-    background-color: #0056b3;
-  }
-  
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.property-scan h1 {
+  text-align: center;
+  color: #333;
+}
+
+.property-scan form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.property-scan label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.property-scan input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.property-scan .image-preview {
+  display: block;
+  max-width: 100%;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.property-scan button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.property-scan button:hover {
+  background-color: #0056b3;
+}
+
+.property-scan .image-analysis, .property-scan .analysis-result {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.property-scan .image-analysis h2, .property-scan .analysis-result h2 {
+  margin-top: 0;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

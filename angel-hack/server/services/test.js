@@ -1,25 +1,24 @@
 import OpenAI from 'openai';
+import fs from 'fs';
+import path from 'path';
 
 const openai = new OpenAI({
-  apiKey: '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', // replace 'YOUR_API_KEY' with your actual OpenAI API key
+  apiKey: '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', // replace with your actual OpenAI API key
 });
 
 async function main() {
+  const filePath = '/Volumes/Extreme Pro/Personal/AngelHack/angel-hack/server/results/result.json'; // replace with the actual path to your JSON file
+
+  // Read the JSON file
+  const jsonData = fs.readFileSync(filePath, 'utf8');
+  const jsonContent = JSON.parse(jsonData);
+
   const response = await openai.chat.completions.create({
     model: 'gpt-4o', // Correct model name if different
     messages: [
-
       {
         role: 'user',
-        content: JSON.stringify([
-          { type: 'text', text: 'Hãy trích xuất cho tôi địa chỉ, diện tích và mục đích sử dụng của bức hình' },
-          {
-            type: 'image_url',
-            image_url: {
-              url: 'https://cdn.thuvienphapluat.vn//uploads/tintuc/2023/08/23/so-do-thua-dat.jpg'
-            },
-          },
-        ]),
+        content: `Please extract the address, area, and purpose of use from the following JSON data:\n\n${JSON.stringify(jsonContent, null, 2)}`,
       },
     ],
   });

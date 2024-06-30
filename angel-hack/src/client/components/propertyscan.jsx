@@ -8,21 +8,18 @@ import InsuranceBanner from "/Volumes/Extreme Pro/Personal/AngelHack/angel-hack/
 
 const PropertyScan = () => {
     const [imageUrl, setImageUrl] = useState('');
-    const [imageAnalysis, setImageAnalysis] = useState('');
+    const [imageAnalysis, setImageAnalysis] = useState(null);
+    const [analysisResult, setAnalysisResult] = useState(null);
 
     const handleSubmit = async (e) => {
       e.preventDefault();
 
       try {
         const response = await axios.post('http://localhost:3000/analyze-image', { imageUrl });
-
-        const analysisResult = response.data;
-        console.log('Image URL:', imageUrl);
-        console.log('Analysis Result:', analysisResult);
-
-        setImageAnalysis(analysisResult);
+        setImageAnalysis(response.data.detections);
+        setAnalysisResult(response.data.analysisResult);
       } catch (error) {
-        console.error('Error processing image URL:', error);
+        console.error('Error analyzing image:', error);
       }
     };
 
@@ -52,30 +49,37 @@ const PropertyScan = () => {
           </div>
         </div>
         <div className="property-scan">
-          <h1>Property Document Scan</h1>
-          <form onSubmit={handleSubmit}>
-            <div>
-              <label htmlFor="imageUrl">Paste Image URL:</label>
-              <input 
-                type="text" 
-                id="imageUrl" 
-                value={imageUrl} 
-                onChange={(e) => setImageUrl(e.target.value)} 
-                placeholder="Enter image URL" 
-              />
-              {imageUrl && <img src={imageUrl} alt="Image Preview" className="image-preview" />}
-            </div>
-            <button type="submit">Submit</button>
-          </form>
-          {imageAnalysis && (
-            <div className="image-analysis">
-              <h2>Image Analysis:</h2>
-              <pre>{JSON.stringify(imageAnalysis, null, 2)}</pre>
-            </div>
-          )}
-        </div>
-      </section>
-    );
+        <h1>Property Document Scan</h1>
+        <form onSubmit={handleSubmit}>
+          <div>
+            <label htmlFor="imageUrl">Paste Image URL:</label>
+            <input 
+              type="text" 
+              id="imageUrl" 
+              value={imageUrl} 
+              onChange={(e) => setImageUrl(e.target.value)} 
+              placeholder="Enter image URL" 
+            />
+            {imageUrl && <img src={imageUrl} alt="Image Preview" className="image-preview" />}
+          </div>
+          <button type="submit">Submit</button>
+        </form>
+        {imageAnalysis && (
+          <div className="image-analysis">
+            <h2>Image Analysis:</h2>
+            <pre>{JSON.stringify(imageAnalysis, null, 2)}</pre>
+          </div>
+        )}
+        {analysisResult && (
+          <div className="analysis-result">
+            <h2>Analysis Result:</h2>
+            <pre style={{ whiteSpace: 'pre-wrap' }}>{analysisResult}</pre>
+          </div>
+        )}
+      </div>
+    </section>
+  );
 }
+
 
 export default PropertyScan;
